@@ -38,16 +38,18 @@ Este projeto foi desenvolvido exclusivamente para fins de portfólio. Ele não t
 Contribuição 🤝
 
 
+
 Licença 📄
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 Contato 📧
 
+
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
  Email: [matheus.dev91@gmail.com](mailto:matheus.dev91@gmail.com)  
 
- GitHub: [mth_fl](https://github.com/mth_fl)
+ GitHub: [mth_fl](https://github.com/mthfl)
 
 
 Sonar Music - Um projeto de portfólio para demonstrar habilidades em desenvolvimento web! 🎧
