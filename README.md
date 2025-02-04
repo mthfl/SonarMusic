@@ -45,8 +45,9 @@ Contato 📧
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-    Email: matheus.dev91@gmail.com
+ Email: [matheus.dev91@gmail.com](mailto:matheus.dev91@gmail.com)  
 
-    GitHub: mth_fl
+ GitHub: [mth_fl](https://github.com/mth_fl)
+
 
 Sonar Music - Um projeto de portfólio para demonstrar habilidades em desenvolvimento web! 🎧
