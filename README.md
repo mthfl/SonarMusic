@@ -1,55 +1,48 @@
 # Sonar Music 🎵
 
-Bem-vindo ao **Sonar Music**, uma plataforma de streaming de música desenvolvida exclusivamente para fins de portfólio. Este projeto foi criado para demonstrar habilidades em desenvolvimento web, utilizando uma variedade de tecnologias modernas.
+Welcome to **Sonar Music**, a music streaming platform developed exclusively for portfolio purposes. This project was created to showcase web development skills using a variety of modern technologies.
 
-## Tecnologias Utilizadas 🛠️
+## Technologies Used 🛠️
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+The project was developed using the following technologies:
 
-- **Frontend**: HTML, CSS, Tailwind CSS
-- **Backend**: Node.js, PHP
-- **APIs**: Integração com APIs externas para funcionalidades de música e autenticação
+- **Frontend**: HTML, CSS, Tailwind CSS  
+- **Backend**: Node.js, PHP  
+- **APIs**: Integration with external APIs for music and authentication features  
 
-## Funcionalidades 🎯
+## Features 🎯
 
-A plataforma Sonar Music oferece as seguintes funcionalidades:
+The Sonar Music platform offers the following features:
 
-- **Cadastro**: Crie uma conta para acessar todas as funcionalidades da plataforma.
-- **Login**: Faça login na sua conta para acessar suas playlists e configurações.
-- **Meu Perfil**: Visualize e edite suas informações de perfil.
-- **Alterar Senha**: Altere sua senha de forma segura.
-- **Alterar Email**: Atualize o email associado à sua conta.
-- **Criar Playlist**: Crie novas playlists para organizar suas músicas favoritas.
-- **Adicionar Música**: Adicione músicas às suas playlists.
-- **Deletar Playlist**: Remova playlists que você não deseja mais manter.
-- **Visualizar Playlist com Músicas**: Veja todas as músicas contidas em uma playlist específica.
+- **Sign Up**: Create an account to access all platform features.  
+- **Login**: Log in to your account to access your playlists and settings.  
+- **My Profile**: View and edit your profile information.  
+- **Change Password**: Securely change your password.  
+- **Change Email**: Update the email associated with your account.  
+- **Create Playlist**: Create new playlists to organize your favorite songs.  
+- **Add Songs**: Add songs to your playlists.  
+- **Delete Playlist**: Remove playlists you no longer wish to keep.  
+- **View Playlist with Songs**: See all songs contained in a specific playlist.  
 
+## Hosted Website 🌐
 
-Link do Site Hospedado 🌐
+You can access the hosted version of the project here: <a href="http://sonar.infinityfreeapp.com/app/main/index.php" target="_blank" rel="noopener noreferrer">Sonar Music</a>  
 
-Você pode acessar a versão hospedada do projeto aqui: <a href="http://sonar.infinityfreeapp.com/app/main/index.php" target="_blank" rel="noopener noreferrer">Sonar Music</a>
+## Note ℹ️
 
+This project was developed exclusively for portfolio purposes. It is not intended to be a commercial or production platform but rather to demonstrate technical and creative skills in web development.
 
+## Contribution 🤝
 
+## License 📄
 
-Observação ℹ️
+This project is licensed under the MIT License – see the LICENSE file for more details.
 
-Este projeto foi desenvolvido exclusivamente para fins de portfólio. Ele não tem a intenção de ser uma plataforma comercial ou de produção, mas sim de demonstrar habilidades técnicas e criativas no desenvolvimento web.
-Contribuição 🤝
+## Contact 📧
 
+If you have any questions or suggestions, feel free to get in touch:
 
+- Email: [matheus.dev91@gmail.com](mailto:matheus.dev91@gmail.com)  
+- GitHub: [mth_fl](https://github.com/mthfl)  
 
-Licença 📄
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
-Contato 📧
-
-
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
-
- Email: [matheus.dev91@gmail.com](mailto:matheus.dev91@gmail.com)  
-
- GitHub: [mth_fl](https://github.com/mthfl)
-
-
-Sonar Music - Um projeto de portfólio para demonstrar habilidades em desenvolvimento web! 🎧
+**Sonar Music** — A portfolio project to showcase web development skills! 🎧
