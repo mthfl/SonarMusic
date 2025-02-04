@@ -27,7 +27,7 @@ A plataforma Sonar Music oferece as seguintes funcionalidades:
 
 Link do Site Hospedado 🌐
 
-Você pode acessar a versão hospedada do projeto aqui: [Sonar Music](https://sonar.infinityfreeapp.com)
+Você pode acessar a versão hospedada do projeto aqui: [Sonar Music](http://sonar.infinityfreeapp.com/app/main/index.php)
 
 
 Observação ℹ️
